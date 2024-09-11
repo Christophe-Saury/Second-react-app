@@ -1,6 +1,6 @@
 import './index.scss'
 import LogoS from '../../assets/images/logo-s.png'
-import LogoSubtitle from '../../assets/images/logo-sub.png'
+import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { Link, NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
